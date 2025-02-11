@@ -1,4 +1,3 @@
-
 mkdir Task_6
 mv Task_6.tar.bz2 ~/Task_6
 cd Task_6/
