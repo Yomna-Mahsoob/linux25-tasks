@@ -1,8 +1,3 @@
-# for keys
-sort keys | uniq -d > extracted_keys.txt 
-
-
-
 
 #for IP
 grep -oE '[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+' data.txt

@@ -1,0 +1,2 @@
+
+sort keys | uniq -d > extracted_keys.txt 
